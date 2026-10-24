@@ -184,7 +184,7 @@ Want to pitch your own idea instead? Ask the organizer first.
 
 ## Step 4: Submit your work
 
-Your submission is whatever is in your fork on GitHub at the deadline: **[DEADLINE]**. Save early and often; you can push as many times as you like.
+Your submission is whatever is in your fork on GitHub at the deadline: **3 PM Saturday October 24, 2026**. Save early and often; you can push as many times as you like.
 
 Before your final save, run your notebook from top to bottom (**Run All** at the top of the notebook) so the outputs (pictures, results, checks) are saved inside it.
 
@@ -216,7 +216,7 @@ If `git push` is rejected because a teammate pushed first, run `git pull` and th
 
 1. Open your fork's page on GitHub **in a private or incognito browser window**. If you can see your notebooks there, so can the organizer.
 2. Click your notebook and confirm your latest work is there.
-3. Send your fork's link to the organizer: **[WHERE TO SUBMIT]**.
+3. Post the link to your fork in the QSA discord, along with your team name and team members.
 
 ---
 
